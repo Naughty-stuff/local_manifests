@@ -26,8 +26,8 @@
         revision="lineage-21-new" />
 
     <project
-        path="vendor/xiaomi/sweet"
-        name="vendor_xiaomi_sweet"
+        path="vendor/xiaomi/sweet2"
+        name="vendor_xiaomi_sweet2"
         remote="manipvlator"
         revision="lineage-21-new" />
 
