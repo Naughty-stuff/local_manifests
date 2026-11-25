@@ -9,10 +9,10 @@
         fetch="https://gitlab.com/unsatifsed27" />
     <remote
         name="hw"
-        fetch="https://github.com/PixelOS-AOSP/hardware_xiaomi" />
+        fetch="https://github.com/PixelOS-AOSP" />
     <remote
         name="kernel"
-        fetch="https://github.com/manipvlator/los_kernel_xiaomi_sm6150" />
+        fetch="https://github.com/manipvlator" />
 
     <!-- Device -->
     <project
