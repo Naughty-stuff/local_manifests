@@ -5,7 +5,7 @@
         name="manipvlator"
         fetch="https://github.com/Naughty-stuff/" />
     <remote
-        name="gitlab"
+        name="memec"
         fetch="https://gitlab.com/unsatifsed27" />
     <remote
         name="hw"
@@ -64,7 +64,7 @@
     <project
         path="vendor/xiaomi/miuicamera-sweet"
         name="miuicamera"
-        remote="gitlab"
+        remote="memec"
         revision="leica" />
     
     <project
