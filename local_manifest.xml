@@ -62,7 +62,7 @@
 
     <!-- MIUI Camera -->
     <project
-        path="vendor/xiaomi/miuicamera-sweet"
+        path="vendor/xiaomi/sweet-miuicamera"
         name="miuicamera"
         remote="memec"
         revision="leica" />
